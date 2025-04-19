@@ -12,8 +12,8 @@ Este proyecto en Python permite consultar información detallada de IPs usando l
 
 ## Requisitos
 
-- Python 3.7+
-- Cuenta gratuita en AbuseIPDB para obtener tu API key.
+- Python 
+- Cuenta gratuita en AbuseIPDB para obtener tu API key. https://www.abuseipdb.com/account/api
 
 ## Instalación
 
