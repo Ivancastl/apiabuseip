@@ -26,7 +26,7 @@ git clone https://github.com/Ivancastl/apiabuseip.git
 ### **Paso 2:**
 # Accede al directorio del proyecto.
 ```bash
-cd abuseip
+cd apiabuseip
 ```
 
 ### **Paso 3:**
